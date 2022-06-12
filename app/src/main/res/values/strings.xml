@@ -3,4 +3,13 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="coin_image">Coin Image</string>
+    <string name="on_boarding_title1">START</string>
+    <string name="on_boarding_title2">EARN</string>
+    <string name="description1">Start Your Crypto Investment Today</string>
+    <string name="description2">Get More Profit Through Crypto Currency.</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+    <string name="welcome_home">WELCOME HOME!</string>
+    <string name="arrow">Arrow</string>
+    <string name="crypto_app">CRYPTO APP</string>
 </resources>

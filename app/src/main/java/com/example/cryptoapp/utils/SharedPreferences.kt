@@ -1,0 +1,25 @@
+package com.example.cryptoapp.utils
+
+import android.content.Context
+import android.content.SharedPreferences
+import com.example.cryptoapp.utils.Constants.FILE_NAME
+import com.example.cryptoapp.utils.Constants.SHARED_PREF_ONBOARDING
+
+class SharedPreferences(private val context: Context) {
+    private fun createPreferences(): SharedPreferences? {
+        return context.getSharedPreferences(FILE_NAME, Context.MODE_PRIVATE)
+    }
+
+    private fun createEditor(): SharedPreferences.Editor? {
+        val preferences = createPreferences()
+        return preferences?.edit()
+    }
+
+    fun putBoolean(value: Boolean) {
+        createEditor()?.putBoolean(SHARED_PREF_ONBOARDING, value)?.apply()
+    }
+
+    fun getBoolean(): Boolean {
+        return createPreferences()?.getBoolean(SHARED_PREF_ONBOARDING, false) ?: false
+    }
+}

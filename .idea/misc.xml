@@ -3,6 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/drawable/bacground_button_border.xml" value="0.205" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/drawable/background_collapsing_toolbar.xml" value="0.2385" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/drawable/background_detail.xml" value="0.243" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/drawable/background_onboarding.xml" value="0.244" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/drawable/bg_button.xml" value="0.252" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/drawable/bg_button_border.xml" value="0.252" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/drawable/bg_onboarding.xml" value="0.252" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/drawable/ic_arrow.xml" value="0.252" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/drawable/indicator_active_background.xml" value="0.181" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/drawable/indicator_inactive_background.xml" value="0.252" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/layout/fragment_detail.xml" value="0.25364583333333335" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/layout/fragment_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/layout/fragment_on_boarding.xml" value="0.25364583333333335" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/layout/fragment_splash.xml" value="0.25364583333333335" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/layout/onboarding_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/1AndroidStudioProjects/GitHub/CryptoApp/app/src/main/res/layout/row_item.xml" value="0.23802083333333332" />
         <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
         <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/fragment_detail.xml" value="0.25364583333333335" />
         <entry key="..\:/AndroidStudioProjects/app/src/main/res/layout/fragment_home.xml" value="0.25364583333333335" />
